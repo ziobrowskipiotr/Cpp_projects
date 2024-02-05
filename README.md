@@ -1,7 +1,7 @@
 <h1 align="center">C++ space</h1>
 
 <p align="center">
-  <img src="https://scontent-frt3-2.xx.fbcdn.net/v/t1.15752-9/339740837_1590934271381456_4128316134381362374_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=Z-iohL8V9WUAX-oERsh&_nc_ht=scontent-frt3-2.xx&oh=03_AdRRQTaAcbG900zn6X2vLgMKkjEkjdyN__qGWYbgzhPcbQ&oe=645A8F65" width="65%" style="max-width: 480px;" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  <img src="https://media.licdn.com/dms/image/C4E12AQGeWAb2SCmt6Q/article-cover_image-shrink_600_2000/0/1649864734723?e=2147483647&v=beta&t=z1Xpe-cRDq_EmH0YMfX-Hggt35Q4EVav2khy3oSSang" width="65%" style="max-width: 480px;" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
 
 <h3 align="center">This is the place where you can review my journey with the C++ language.</h3>
